@@ -9,7 +9,7 @@ const wordList = [
     },
     {
         cuvant: "gumă",
-        sugestie: "Elastică și in diferite culori, iubita de copii."
+        sugestie: "Elastică și în diferite culori, iubită de copii."
     },
     {
         cuvant: "însorit",
@@ -33,7 +33,7 @@ const wordList = [
     },
     {
         cuvant: "zmeu",
-        sugestie: "Un jucărie zburătoare atașată de un șnur."
+        sugestie: "O jucărie zburătoare atașată de un șnur."
     },
     {
         cuvant: "scânteiere",
@@ -49,11 +49,11 @@ const wordList = [
     },
     {
         cuvant: "puzzle",
-        sugestie: "Un joc sau provocare pentru a-ți testa creierul construit din multe piese."
+        sugestie: "Un joc sau provocare construit din multe piese conceput pentru a-ți testa creierul ."
     },
     {
         cuvant: "licurici",
-        sugestie: "Un insect mic care luminează în întuneric."
+        sugestie: "O insectă mică care luminează în întuneric."
     },
     {
         cuvant: "tabără",
@@ -89,21 +89,20 @@ const wordList = [
     },
     {
         cuvant: "magie",
-        sugestie: "Forțe supranaturale misterioase și fermecătoare."
+        sugestie: "Forță supranaturală misterioasă și fermecătoare."
     },
     {
         cuvant: "râsete",
-        sugestie: "Sunete emanate atunci cand esti fericit."
+        sugestie: "Sunete emanate atunci când ești fericit."
     },
     {
         cuvant: "soare",
-        sugestie: "Corp ceresc care incalzeste pamantul."
+        sugestie: "Corp ceresc care incălzește pământul."
     },
     {
         cuvant: "șoaptă",
         sugestie: "A vorbi foarte încet sau liniștit, adesea într-un mod secretos."
     },
-
     {
         cuvant: "acadea",
         sugestie: "Un dulce pe un băț, adesea colorat în culori aprinse."
@@ -114,7 +113,7 @@ const wordList = [
     },
     {
         cuvant: "bulă",
-        sugestie: "O sferă subțire de lichid care înclude aer sau gaz."
+        sugestie: "O sferă subțire de lichid care include aer sau gaz."
     },
     {
         cuvant: "desene",
@@ -130,7 +129,7 @@ const wordList = [
     },
     {
         cuvant: "pufoasă",
-        sugestie: "Moale si matasoasa. Adjectiv"
+        sugestie: "Moale si mătăsoasă. Adjectiv"
     },
     {
         cuvant: "ghindă",
