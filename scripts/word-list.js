@@ -56,8 +56,8 @@ const wordList = [
         sugestie: "Un insect mic care luminează în întuneric."
     },
     {
-        cuvant: "foc de tabara",
-        sugestie: "Un foc cald în aer liber pentru gătit sau adunare."
+        cuvant: "tabara",
+        sugestie: "Un loc în aer liber pentru gătit sau adunare."
     },
     {
         cuvant: "vrajitor",
@@ -103,10 +103,7 @@ const wordList = [
         cuvant: "soapta",
         sugestie: "A vorbi foarte încet sau liniștit, adesea într-un mod secretos."
     },
-    {
-        cuvant: "teren de joaca",
-        sugestie: "O zonă în aer liber cu echipamente pentru copii de a se juca."
-    },
+
     {
         cuvant: "acadea",
         sugestie: "Un dulce pe un băț, adesea colorat în culori aprinse."
@@ -120,8 +117,8 @@ const wordList = [
         sugestie: "O sferă subțire de lichid care înclude aer sau gaz."
     },
     {
-        cuvant: "desene animate",
-        sugestie: "Un film sau emisiune TV animat cu personaje amuzante."
+        cuvant: "desene",
+        sugestie: "Un film sau emisiune TV animat cu personaje amuzante si fictive."
     },
     {
         cuvant: "zambet",
