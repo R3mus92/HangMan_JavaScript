@@ -4,15 +4,15 @@ const wordList = [
         sugestie: "Un pasăre care nu poate zbura și care iubește frigul."
     },
     {
-        cuvant: "banana",
+        cuvant: "banană",
         sugestie: "Un fruct galben pe care îl iubesc maimuțele."
     },
     {
-        cuvant: "guma de mestecat",
+        cuvant: "gumă",
         sugestie: "Elastică și in diferite culori, iubita de copii."
     },
     {
-        cuvant: "insorit",
+        cuvant: "însorit",
         sugestie: "Vremea când cerul este senin și luminos."
     },
     {
@@ -24,11 +24,11 @@ const wordList = [
         sugestie: "Un personaj fictiv cu puteri extraordinare."
     },
     {
-        cuvant: "prajitura",
+        cuvant: "prăjitură",
         sugestie: "Un desert delicios adesea acoperit cu glazură."
     },
     {
-        cuvant: "ras",
+        cuvant: "râs",
         sugestie: "Sunetul vesel al amuzamentului."
     },
     {
@@ -36,7 +36,7 @@ const wordList = [
         sugestie: "Un jucărie zburătoare atașată de un șnur."
     },
     {
-        cuvant: "scanteiere",
+        cuvant: "scânteiere",
         sugestie: "Luciu cu mici sclipiri de lumină."
     },
     {
@@ -56,35 +56,35 @@ const wordList = [
         sugestie: "Un insect mic care luminează în întuneric."
     },
     {
-        cuvant: "tabara",
+        cuvant: "tabără",
         sugestie: "Un loc în aer liber pentru gătit sau adunare."
     },
     {
-        cuvant: "vrajitor",
+        cuvant: "vrăjitor",
         sugestie: "O persoană magică cu puteri speciale."
     },
     {
-        cuvant: "margareta",
+        cuvant: "margaretă",
         sugestie: "O floare albă simplă și veselă."
     },
     {
-        cuvant: "jungla",
+        cuvant: "junglă",
         sugestie: "O pădure densă și tropicală plină de viață sălbatică."
     },
     {
-        cuvant: "briosa",
+        cuvant: "brioșă",
         sugestie: "O pâine dulce adesea umpluta cu fructe sau nuci."
     },
     {
-        cuvant: "perna",
+        cuvant: "pernă",
         sugestie: "Moale și pufoasă pentru a-ți odihni capul."
     },
     {
-        cuvant: "instelata",
+        cuvant: "înstelată",
         sugestie: "Plină de stele strălucitoare și luminoase."
     },
     {
-        cuvant: "jucaus",
+        cuvant: "jucăuș",
         sugestie: "Plin de distracție și activitate plină de viață."
     },
     {
@@ -92,7 +92,7 @@ const wordList = [
         sugestie: "Forțe supranaturale misterioase și fermecătoare."
     },
     {
-        cuvant: "rasete",
+        cuvant: "râsete",
         sugestie: "Sunete emanate atunci cand esti fericit."
     },
     {
@@ -100,7 +100,7 @@ const wordList = [
         sugestie: "Corp ceresc care incalzeste pamantul."
     },
     {
-        cuvant: "soapta",
+        cuvant: "șoaptă",
         sugestie: "A vorbi foarte încet sau liniștit, adesea într-un mod secretos."
     },
 
@@ -109,11 +109,11 @@ const wordList = [
         sugestie: "Un dulce pe un băț, adesea colorat în culori aprinse."
     },
     {
-        cuvant: "girafa",
+        cuvant: "girafă",
         sugestie: "Un mamifer african înalt cu gât lung."
     },
     {
-        cuvant: "bula",
+        cuvant: "bulă",
         sugestie: "O sferă subțire de lichid care înclude aer sau gaz."
     },
     {
@@ -121,19 +121,19 @@ const wordList = [
         sugestie: "Un film sau emisiune TV animat cu personaje amuzante si fictive."
     },
     {
-        cuvant: "zambet",
+        cuvant: "zâmbet",
         sugestie: "O expresie facială fericită."
     },
     {
-        cuvant: "presarat",
+        cuvant: "presărat",
         sugestie: "Bucățele mici de bomboane sau decorațiuni ori fel de a condimenta mancarea."
     },
     {
-        cuvant: "pufoasa",
-        sugestie: "Moale si matasoasa."
+        cuvant: "pufoasă",
+        sugestie: "Moale si matasoasa. Adjectiv"
     },
     {
-        cuvant: "ghinda",
+        cuvant: "ghindă",
         sugestie: "Fructul unui stejar."
     }
 ];
