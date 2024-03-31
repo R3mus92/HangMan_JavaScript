@@ -44,7 +44,7 @@ const gameOver = (isVictory) => {
    gameModal.classList.add("show");
 }
 
-// Creating a for loop to display our keyboard buttons
+// Creating a for loop to display the keyboard buttons
 for (let i = 97; i <= 122; i++) {
    const button = document.createElement("button");
    button.innerText = String.fromCharCode(i);
@@ -53,6 +53,7 @@ for (let i = 97; i <= 122; i++) {
    button.addEventListener("click", (e) => initGame(e.target, String.fromCharCode(i)));
 }
 
+// Adding romanian characters to the keyboard
 const characters = ['ă', 'ț', 'ș', 'â','î'];
 characters.forEach(char => {
    const button = document.createElement("button");

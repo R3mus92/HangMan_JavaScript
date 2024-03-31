@@ -1,7 +1,7 @@
 const wordList = [
     {
         cuvant: "pinguin",
-        sugestie: "Un pasăre care nu poate zbura și care iubește frigul."
+        sugestie: "O pasăre care nu poate zbura și care iubește frigul."
     },
     {
         cuvant: "banană",
