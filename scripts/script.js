@@ -37,9 +37,9 @@ const getRandomWord  = () => {
 // Function to handle the end of game win or lose
 const gameOver = (isVictory) => {
    // Show the game over modal with win or loss
-   const modalText = isVictory ? `Ai gasit cuvantul:` : 'Cuvantul corect a fost:';
+   const modalText = isVictory ? `Ai găsit cuvantul:` : 'Cuvântul corect a fost:';
    gameModal.querySelector("img").src = `images/${isVictory ? 'victory' : 'lost'}.gif`;
-   gameModal.querySelector("h4").innerText = isVictory ? 'Felicitari' : 'Jocul s-a terminat!';
+   gameModal.querySelector("h4").innerText = isVictory ? 'Felicitări!' : 'Jocul s-a terminat!';
    gameModal.querySelector("p").innerHTML = `${modalText} <b>${currentWord}</b>`;
    gameModal.classList.add("show");
 }
